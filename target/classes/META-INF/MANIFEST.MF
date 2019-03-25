@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: microservice-shorturl
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: d.yalcin
+Implementation-Vendor-Id: test
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/testtest
+Created-By: Maven Integration for Eclipse
+
